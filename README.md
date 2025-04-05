@@ -4,7 +4,7 @@ Repositorio que recopila trabajos realizados durante la asignatura **Administrac
 
 ---
 
-## 📚 Contenido
+## Contenido
 
 Este repositorio contiene apuntes, ejercicios y documentación generada a lo largo de la asignatura, incluyendo:
 
@@ -14,11 +14,11 @@ Este repositorio contiene apuntes, ejercicios y documentación generada a lo lar
 - Scripts de automatización (bash)
 - Uso de comandos esenciales y herramientas del sistema
 
-> 📂 Los documentos están organizados por tema o práctica y en formato PDF.
+> Los documentos están organizados por tema o práctica y en formato PDF.
 
 ---
 
-## 🧠 Tecnologías / Entorno
+## Tecnologías / Entorno
 
 - **Sistema operativo:** Linux (Debian/Ubuntu/Kali Linux)
 - **Shell scripting:** Bash
@@ -26,6 +26,6 @@ Este repositorio contiene apuntes, ejercicios y documentación generada a lo lar
 
 ---
 
-## ✍️ Autor
+## Autor
 
 Oscar Márquez Puchol  
